@@ -1119,3 +1119,20 @@
 127.0.0.1, 2021-04-21 02:55:15, GET, /movies/static/movies/vendor/axios.min.map, HTTP/1.1, 404, 0.000000
 127.0.0.1, 2021-04-21 02:55:15, GET, /movies/static/movies/vendor/bootstrap/js/bootstrap.bundle.min.js.map, HTTP/1.1, 200, 0.001000
 127.0.0.1, 2021-04-21 02:55:15, GET, /favicon.ico, HTTP/1.1, 400, 0.000000
+127.0.0.1, 2021-04-21 03:06:02, GET, /, HTTP/1.1, 303, 0.001001
+127.0.0.1, 2021-04-21 03:06:02, GET, /welcome/default/index, HTTP/1.1, 200, 0.297938
+127.0.0.1, 2021-04-21 03:06:03, GET, /welcome/static/images/background.jpg, HTTP/1.1, 404, 0.000000
+127.0.0.1, 2021-04-21 03:06:06, GET, /admin/default/site, HTTP/1.1, 303, 0.291001
+127.0.0.1, 2021-04-21 03:06:06, GET, /admin/default/index, HTTP/1.1, 200, 0.061040
+127.0.0.1, 2021-04-21 03:06:06, GET, /favicon.ico, HTTP/1.1, 400, 0.001000
+127.0.0.1, 2021-04-21 03:06:10, POST, /admin/default/index, HTTP/1.1, 303, 0.013951
+127.0.0.1, 2021-04-21 03:06:10, GET, /admin/default/site, HTTP/1.1, 200, 0.033004
+127.0.0.1, 2021-04-21 03:06:10, GET, /favicon.ico, HTTP/1.1, 400, 0.000000
+127.0.0.1, 2021-04-21 03:06:10, POST, /admin/default/check_version, HTTP/1.1, 200, 0.618109
+127.0.0.1, 2021-04-21 03:06:13, GET, /movies/default/index, HTTP/1.1, 200, 2.022742
+127.0.0.1, 2021-04-21 03:06:20, GET, /movies/static/index.html, HTTP/1.1, 200, 0.000000
+127.0.0.1, 2021-04-21 03:06:20, GET, /movies/static/vendor/bootstrap/css/bootstrap.min.css, HTTP/1.1, 200, 0.000000
+127.0.0.1, 2021-04-21 03:06:20, GET, /movies/static/vendor/vue-ratings.js, HTTP/1.1, 200, 0.127.0.0.1, 2021-04-21 03:06:20, GET, /movies/static/vendor/axios.min.js, HTTP/1.1, 200, 0.001998
+127.0.0.1, 2021-04-21 03:06:20, GET, /movies/static/vendor/bootstrap/js/bootstrap.bundle.min.js, HTTP/1.1, 200, 0.001003
+127.0.0.1, 2021-04-21 03:06:20, GET, /movies/static/movies.json, HTTP/1.1, 200, 0.001000
+127.0.0.1, 2021-04-21 03:06:20, GET, /favicon.ico, HTTP/1.1, 400, 0.000000
